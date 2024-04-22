@@ -2,3 +2,9 @@
 
 <h2>Introduction: </h2>
 <p>This project is a simple CRUD (Create, Read, Update, Delete) REST API built using Spring Boot. It provides endpoints to manage student records in a database.</p>
+
+<h2>Features: </h2>
+<p><b>CRUD Operations: </b>Perform CRUD operations on student records.</p>
+<p><b>RESTFul API: </b>Follows REST principles for API design.</p>
+<P><b>Docker Support: </b>Can be deployed as a Docker container.</P>
+<P><b></b></P>
