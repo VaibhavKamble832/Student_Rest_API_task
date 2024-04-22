@@ -14,3 +14,9 @@
 <h4>MySQL</h4>
 <h4>Docker</h4>
 <h4>Maven</h4>
+
+<h2>API's: </h2>
+<p><b>POST /student/saveStudent :</b> Create new student</p>
+<p><b>GET /student/studentList :</b> Get All Students</p>
+<p><b>GET /student/findStudent/{id} :</b> Get student by id</p>
+<p><b>POST /student/updateStudent/{id} :</b> Update student by id</p>
