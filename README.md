@@ -7,4 +7,10 @@
 <p><b>CRUD Operations: </b>Perform CRUD operations on student records.</p>
 <p><b>RESTFul API: </b>Follows REST principles for API design.</p>
 <P><b>Docker Support: </b>Can be deployed as a Docker container.</P>
-<P><b></b></P>
+
+<h2>Technologies Used: </h2>
+<h4>Spring Boot</h4>
+<h4>Spring Data JPA</h4>
+<h4>MySQL</h4>
+<h4>Docker</h4>
+<h4>Maven</h4>
