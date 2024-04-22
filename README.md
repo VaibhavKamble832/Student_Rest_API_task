@@ -9,14 +9,15 @@
 <P><b>Docker Support: </b>Can be deployed as a Docker container.</P>
 
 <h2>Technologies Used: </h2>
-<h4>Spring Boot</h4>
-<h4>Spring Data JPA</h4>
-<h4>MySQL</h4>
-<h4>Docker</h4>
-<h4>Maven</h4>
+<h5>Spring Boot</h5>
+<h5>Spring Data JPA</h5>
+<h5>MySQL</h5>
+<h5>Docker</h5>
+<h5>Maven</h5>
 
 <h2>API's: </h2>
 <p><b>POST /student/saveStudent :</b> Create new student</p>
 <p><b>GET /student/studentList :</b> Get All Students</p>
 <p><b>GET /student/findStudent/{id} :</b> Get student by id</p>
-<p><b>POST /student/updateStudent/{id} :</b> Update student by id</p>
+<p><b>PUT /student/updateStudent/{id} :</b> Update student by id</p>
+<p><b>DELETE /student/deleteStudent/{id} :</b> Delete student by id</p>
